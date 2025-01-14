@@ -67,9 +67,9 @@ import {
 const router = useRouter()
 
 const carouselItems = ref([
-  { id: 1, title: '新书上架', imgUrl: '/public/cefc1e178a82b901a5c8f0107d8da9773912efa8.png' },
-  { id: 2, title: '特价促销', imgUrl: '/public/微信图片_20241210202522.png' },
-  { id: 3, title: '畅销榜单', imgUrl: '/public/微信图片_20241210202824.png' }
+  { id: 1, title: '新书上架', imgUrl: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241210202452.png?e=1736856769&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:8bQvQBDWsmc8YafhA8JxwQ-u4XE=' },
+  { id: 2, title: '特价促销', imgUrl: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241210202522.png?e=1736856797&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:gcD-WhM2YGO2cTUCbH2jcVFXlaE=' },
+  { id: 3, title: '畅销榜单', imgUrl: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241210202824.png?e=1736856815&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:D57A5c1W85Qly-T1mXIgP8slkAA=' }
 ])
 
 const categories = ref([

@@ -62,7 +62,7 @@ const books = ref([
     author: '刘慈欣',
     price: 99.00,
     category: 1,
-    cover: '/三体.jpeg'
+    cover: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E4%B8%89%E4%BD%93.jpeg?e=1736856623&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:N0jn-cm8ZELsX6Ag2qIPzlBdO_c='
   },
   {
     id: 2,
@@ -70,7 +70,7 @@ const books = ref([
     author: '余华',
     price: 59.00,
     category: 1,
-    cover: '/public/活着.jpeg'
+    cover: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E6%B4%BB%E7%9D%80.jpeg?e=1736856569&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:FqPhleUrzAx401AwOisRrk1S3H8='
   },
   {
     id: 3,
@@ -78,7 +78,7 @@ const books = ref([
     author: '圣埃克苏佩里',
     price: 39.00,
     category: 1,
-    cover: '/public/小王子.jpeg'
+    cover: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E5%B0%8F%E7%8E%8B%E5%AD%90.jpeg?e=1736856193&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:KJdkX_uvUeBmDXCBOu_GejmNnmw='
   },
   {
     id: 4,
@@ -86,7 +86,7 @@ const books = ref([
     author: '东野圭吾',
     price: 79.00,
     category: 1,
-    cover: '/public/解忧杂货店.jpeg'
+    cover: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E8%A7%A3%E5%BF%A7%E6%9D%82%E8%B4%A7%E5%BA%97.jpeg?e=1736856604&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:2pGLoKc2T_FeuY_qvXUUM6ZuDJA='
   },
   {
     id: 5,
@@ -94,7 +94,7 @@ const books = ref([
     author: '加西亚·马尔克斯',
     price: 89.00,
     category: 1,
-    cover: '/public/百年孤独.jpeg'
+    cover: 'http://sq2u5rwaj.hn-bkt.clouddn.com/%E7%99%BE%E5%B9%B4%E5%AD%A4%E7%8B%AC.jpeg?e=1736856590&token=8i3YOzNXgv1dAKgnWNwPJlgcbfPcJcTEKfgJpwb5:gfv_jEBx9l8F7gQaG6uOzP3wvPw='
   },
   // ... 更多书籍
 ])
